@@ -1,7 +1,6 @@
 package com.webMvc.config;
 
 
-import com.webMvc.filter.MyCustomeFilter;
 import com.webMvc.interceptor.MyInterceptor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
